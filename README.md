@@ -5,7 +5,7 @@ This is a simple web application that shows the remaining time in days, hours, m
 
 ## Usage
 
-To use the countdown timer, simply enter the date  that you are counting down to in the input field provided. The format should be in "dd/mm/yyyy" (for example, "31/12/20123").
+To use the countdown timer, simply enter the date  that you are counting down to in the input field provided. The format should be in "dd/mm/yyyy" (for example, "31/12/2023").
 
 Once you have entered the desired date, click the "Enter" button to begin the countdown. The remaining time will be displayed in days, hours, minutes, and seconds.
 
